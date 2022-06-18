@@ -1,7 +1,7 @@
 {
   "name": "@http-pro/isomorphic",
   "version": "0.1.0",
-  "author": "pranshushah",
+  "author": "pranshu shah",
   "license": "MIT",
   "description": "http-pro but works on node and browser the same way.",
   "keywords": [
@@ -23,5 +23,8 @@
     "browser",
     "SSR",
     "Next.js"
-  ]
+  ],
+  "engines": {
+    "node": ">=16"
+  }
 }
