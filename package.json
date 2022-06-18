@@ -1,7 +1,6 @@
 {
   "name": "@http-pro/isomorphic",
   "version": "0.1.0",
-  "author": "pranshushah",
   "license": "MIT",
   "type": "module",
   "dependencies": {
@@ -9,5 +8,30 @@
   },
   "peerDependencies": {
     "http-pro": "^0.2.2"
+  },
+  "author": "pranshu shah",
+  "description": "http-pro but works on node and browser the same way.",
+  "keywords": [
+    "fetch",
+    "request",
+    "response",
+    "http",
+    "https",
+    "axios",
+    "ky",
+    "got",
+    "node-fetch",
+    "URL",
+    "network",
+    "rest",
+    "ajax",
+    "xmlhttprequest",
+    "api",
+    "browser",
+    "SSR",
+    "Next.js"
+  ],
+  "engines": {
+    "node": ">=16"
   }
 }
