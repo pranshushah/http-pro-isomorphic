@@ -2,5 +2,26 @@
   "name": "@http-pro/isomorphic",
   "version": "0.1.0",
   "author": "pranshushah",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "http-pro but works on node and browser the same way.",
+  "keywords": [
+    "fetch",
+    "request",
+    "response",
+    "http",
+    "https",
+    "axios",
+    "ky",
+    "got",
+    "node-fetch",
+    "URL",
+    "network",
+    "rest",
+    "ajax",
+    "xmlhttprequest",
+    "api",
+    "browser",
+    "SSR",
+    "Next.js"
+  ]
 }
