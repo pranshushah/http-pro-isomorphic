@@ -1,8 +1,15 @@
 {
   "name": "@http-pro/isomorphic",
   "version": "0.1.0",
-  "author": "pranshu shah",
   "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "peerDependencies": {
+    "http-pro": "^0.2.2"
+  },
+  "author": "pranshu shah",
   "description": "http-pro but works on node and browser the same way.",
   "keywords": [
     "fetch",
