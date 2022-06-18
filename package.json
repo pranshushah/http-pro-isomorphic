@@ -9,8 +9,14 @@
   "peerDependencies": {
     "http-pro": "^0.2.2"
   },
+  "exports": {
+    "node": "./index.js"
+  },
   "author": "pranshu shah",
-  "description": "http-pro but works on node and browser the same way.",
+  "description": "http-pro but for node and browser with same syntax",
+  "scripts": {
+    "publish": "np"
+  },
   "keywords": [
     "fetch",
     "request",
