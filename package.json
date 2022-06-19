@@ -13,7 +13,6 @@
     "node": "./index.js",
     "default": "./default.js"
   },
-  "browser": "./default.js",
   "files": [
     "index.js",
     "default.js",
