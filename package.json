@@ -9,10 +9,8 @@
   "peerDependencies": {
     "http-pro": "^0.2.2"
   },
-  "exports": {
-    "node": "./index.js",
-    "default": "./default.js"
-  },
+  "main": "./index.js",
+  "browser": "./default.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pranshushah/http-pro-isomorphic"
@@ -29,9 +27,6 @@
     "url": "https://twitter.com/pranshushah1"
   },
   "description": "http-pro but for node and browser with same syntax",
-  "scripts": {
-    "publish": "np"
-  },
   "keywords": [
     "fetch",
     "request",
