@@ -13,6 +13,10 @@
     "node": "./index.js",
     "default": "./default.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranshushah/http-pro-isomorphic"
+  },
   "files": [
     "index.js",
     "default.js",
