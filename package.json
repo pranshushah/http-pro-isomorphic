@@ -10,9 +10,21 @@
     "http-pro": "^0.2.2"
   },
   "exports": {
-    "node": "./index.js"
+    "node": "./index.js",
+    "default": "./default.js"
   },
-  "author": "pranshu shah",
+  "browser": "./default.js",
+  "files": [
+    "index.js",
+    "default.js",
+    "default.d.ts",
+    "index.d.ts"
+  ],
+  "author": {
+    "name": "pranshu shah",
+    "email": "pranshu.shah23@gmail.com",
+    "url": "https://twitter.com/pranshushah1"
+  },
   "description": "http-pro but for node and browser with same syntax",
   "scripts": {
     "publish": "np"
