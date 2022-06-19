@@ -7,15 +7,18 @@
     "node-fetch": "^3.2.6"
   },
   "peerDependencies": {
-    "http-pro": "^0.2.2"
+    "http-pro": "^0.3.2"
   },
   "peerDependenciesMeta": {
     "http-pro": {
       "optional": false
     }
   },
-  "main": "./index.js",
-  "browser": "./default.js",
+  "exports": {
+    "default": "./default.js",
+    "node": "./index.js"
+  },
+  "browser": "default.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pranshushah/http-pro-isomorphic"
