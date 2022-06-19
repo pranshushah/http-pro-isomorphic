@@ -15,8 +15,8 @@
     }
   },
   "exports": {
-    "default": "./default.js",
-    "node": "./index.js"
+    "node": "./index.js",
+    "default": "./default.js"
   },
   "browser": "default.js",
   "repository": {
