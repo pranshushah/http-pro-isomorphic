@@ -9,6 +9,11 @@
   "peerDependencies": {
     "http-pro": "^0.2.2"
   },
+  "peerDependenciesMeta": {
+    "http-pro": {
+      "optional": false
+    }
+  },
   "main": "./index.js",
   "browser": "./default.js",
   "repository": {
