@@ -22,10 +22,10 @@ formdata-polyfill@^4.0.10:
   dependencies:
     fetch-blob "^3.1.2"
 
-http-pro@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/http-pro/-/http-pro-0.2.2.tgz#3718bddbc19eca9718146d0993ba91fd2823442e"
-  integrity sha512-cYFKFiMvr80BLoAluSCq25Z9X5lOT1eTg/gCcGdRVX7dCuSEmJ3+I7leWToj8Jaef0w5PbXNy3xN2YTv6MGakQ==
+http-pro@^0.3.2:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/http-pro/-/http-pro-0.3.4.tgz#c98acd79b2995991464c85b79cedabfef2762631"
+  integrity sha512-X6Bv/5THDFm1tblCtin3kVyrNbcibxjS4j8LtdTQ2zvyzWcpSEtWS6SM/jYcrGbXDa3uY9uHSnqT9F+uTivWaQ==
 
 node-domexception@^1.0.0:
   version "1.0.0"

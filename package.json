@@ -18,7 +18,7 @@
     "node": "./index.js",
     "default": "./default.js"
   },
-  "browser": "default.js",
+  "browser": "./default.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pranshushah/http-pro-isomorphic"
