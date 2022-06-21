@@ -7,7 +7,7 @@
     "node-fetch": "^3.2.6"
   },
   "peerDependencies": {
-    "http-pro": "^0.3.2"
+    "http-pro": ">=0.3.5"
   },
   "peerDependenciesMeta": {
     "http-pro": {
