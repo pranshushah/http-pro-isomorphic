@@ -27,7 +27,8 @@
     "index.js",
     "default.js",
     "default.d.ts",
-    "index.d.ts"
+    "index.d.ts",
+    "fetchPolyfill.js"
   ],
   "author": {
     "name": "pranshu shah",
